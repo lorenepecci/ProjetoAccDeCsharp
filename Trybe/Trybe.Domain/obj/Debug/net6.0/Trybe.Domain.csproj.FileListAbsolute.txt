@@ -1,0 +1,12 @@
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\Trybe.Domain.csproj.AssemblyReference.cache
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\Trybe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\Trybe.Domain.AssemblyInfoInputs.cache
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\Trybe.Domain.AssemblyInfo.cs
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\Trybe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\bin\Debug\net6.0\Trybe.Domain.deps.json
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\bin\Debug\net6.0\Trybe.Domain.dll
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\bin\Debug\net6.0\Trybe.Domain.pdb
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\Trybe.Domain.dll
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\refint\Trybe.Domain.dll
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\Trybe.Domain.pdb
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Domain\obj\Debug\net6.0\ref\Trybe.Domain.dll

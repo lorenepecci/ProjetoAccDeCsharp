@@ -1,0 +1,15 @@
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\bin\Debug\net6.0\Trybe.Repository.deps.json
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\bin\Debug\net6.0\Trybe.Repository.dll
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\bin\Debug\net6.0\Trybe.Repository.pdb
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\bin\Debug\net6.0\Trybe.Domain.dll
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\bin\Debug\net6.0\Trybe.Domain.pdb
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.csproj.AssemblyReference.cache
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.AssemblyInfoInputs.cache
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.AssemblyInfo.cs
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.csproj.CoreCompileInputs.cache
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.csproj.CopyComplete
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.dll
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\refint\Trybe.Repository.dll
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\Trybe.Repository.pdb
+C:\Users\BSI91581\source\repos\Trybe\Trybe.Repository\obj\Debug\net6.0\ref\Trybe.Repository.dll
